@@ -1,4 +1,4 @@
-// SPDIX-LIcense-Identifier: MIT
+// SPDX-License-Identifier: MIT
 
 // 1. Deploy mock when we are on a local anvil chain
 // 2. Keep track of contract address accress different chians
